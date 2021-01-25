@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="./node_modules/nes.css/css/nes.min.css">
 <div align="center">
 	<br>
 	<img src="header.svg" width="800" height="400">
